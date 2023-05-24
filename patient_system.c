@@ -1,5 +1,6 @@
 // Ahmed Mohammed Seghairoon Elsheikh (2210213575)
 // 2210213575@ogrenci.karabuk.edu.tr
+// homework github repo https://github.com/ahmed0m0seghairoon/Patient-System-Homework
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -83,6 +84,7 @@ int main()
             printPatient(patients[i]);
     }
 
+    // 7 - Store a formatted listing of all patients records in a text file
     FILE* filePtr;
     filePtr = fopen("table.txt", "wb");
 
