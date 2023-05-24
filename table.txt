@@ -1,0 +1,5 @@
+| id  | name            | age   | illness    | condition  |
+| 1   | ahmed mohammed  | 20    | cold       | stable     |
+| 3   | bruce Banner    | 54    | malaria    | serious    |
+| 4   | tony stark      | 51    | covid      | critical   |
+| 5   | steve rogers    | 49    | cancer     | critical   |
